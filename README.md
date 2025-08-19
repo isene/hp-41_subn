@@ -6,6 +6,7 @@
 [![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
 
 <img src="img/subn_logo.svg" align="left" width="150" height="150" alt="SUBN Logo">
+<br clear="left"/>
 
 ## HP-41: Simple program for calculating IP subnets
 
